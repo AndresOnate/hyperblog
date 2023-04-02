@@ -2,3 +2,13 @@ body{
     color: blueviolet;
     text-align: center;
 }
+
+#cabecera{
+
+    background: rebeccapurple;
+    color: aliceblue;
+    margin: 0;
+    font-weight: bold;
+
+
+}
